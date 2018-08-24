@@ -3,6 +3,10 @@ openvpn Cookbook CHANGELOG
 This file is used to list changes made in each version of the openvpn cookbook.
 
 
+3.0.1 (2018-08-24)
+------------------
+- Remove .rubocop.yml from attributes directory
+
 v2.1.0
 ------
 Updating to use cookbook yum ~> 3.0
